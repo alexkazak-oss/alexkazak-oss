@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexkazak-oss
 - 👀 I’m interested in back and frontend
 - 🌱 I’m currently learning JS, CSS HTML
-- 💞️ I’m looking to collaborate on 
+- 🤝 I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
